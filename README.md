@@ -1,6 +1,7 @@
 # scratch-vm-src
-There are some helpful instruction for me to create my own block in Scratch VM. It is important to make sure that the extended file is modified in the scratch-vm, such as extensions. If we want to use own block in GUI, it suggests to do the modified in the scratch-gui file. Go to .extensions in scratch-gui, and modified the index.jsx.
-Although the Scratch programming language is designed for kids to learn programming, there are still some interesting thing keep updating in the Scratch Project. For me, it is a good start point to learn some javascript, and it could create a template to interact. If there is any new stuff or finding, i will updating in the folder.
+  
+Although the Scratch programming language is designed for kids to learn programming, there are still some interesting thing keep updating in the Scratch Project. For me, it is a good start point to learn some javascript, and it could create a template to interact. If there is any new stuff or finding, i will updating in the folder.  
+There are some helpful instruction for me to create my own block in Scratch VM. It is important to make sure that the extended file is modified in the scratch-vm, such as extensions. If we want to use own block in GUI, it suggests to do the modified in the scratch-gui file. Go to .extensions in scratch-gui, and modified the index.jsx.  
   
 * Install:  
   * Official Project _ https://github.com/LLK/scratch-vm  
