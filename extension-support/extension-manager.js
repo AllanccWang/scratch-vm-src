@@ -23,7 +23,8 @@ const builtinExtensions = {
     makeymakey: () => require('../extensions/scratch3_makeymakey'),
     boost: () => require('../extensions/scratch3_boost'),
     gdxfor: () => require('../extensions/scratch3_gdx_for'),
-	newblocks: () => require('../extensions/scratch3_newblocks') //added
+	newblocks: () => require('../extensions/scratch3_newblocks'), //added
+	browser: () => require('../extensions/scratch3_browser') //added
 };
 
 /**
